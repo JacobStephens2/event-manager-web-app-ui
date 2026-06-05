@@ -1,4 +1,5 @@
 {
+  "license": "GPL-3.0-or-later",
   "name": "events-manager",
   "version": "0.1.0",
   "private": true,
